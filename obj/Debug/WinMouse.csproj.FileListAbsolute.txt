@@ -1,0 +1,16 @@
+C:\Users\one\source\repos\WinMouse\WinMouse\bin\Debug\WinMouse.exe
+C:\Users\one\source\repos\WinMouse\WinMouse\bin\Debug\WinMouse.pdb
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Debug\WinMouse.Form1.resources
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Debug\WinMouse.Properties.Resources.resources
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Debug\WinMouse.csproj.GenerateResource.Cache
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Debug\WinMouse.csproj.CoreCompileInputs.cache
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Debug\WinMouse.exe
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Debug\WinMouse.pdb
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\bin\Debug\WinMouse.exe
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\bin\Debug\WinMouse.pdb
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Debug\WinMouse.Form1.resources
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Debug\WinMouse.Properties.Resources.resources
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Debug\WinMouse.csproj.GenerateResource.Cache
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Debug\WinMouse.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Debug\WinMouse.exe
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Debug\WinMouse.pdb

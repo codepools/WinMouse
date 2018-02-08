@@ -1,0 +1,17 @@
+C:\Users\one\source\repos\WinMouse\WinMouse\bin\Release\WinMouse.exe
+C:\Users\one\source\repos\WinMouse\WinMouse\bin\Release\WinMouse.pdb
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Release\WinMouse.Form1.resources
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Release\WinMouse.Properties.Resources.resources
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Release\WinMouse.csproj.GenerateResource.Cache
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Release\WinMouse.csproj.CoreCompileInputs.cache
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Release\WinMouse.exe
+C:\Users\one\source\repos\WinMouse\WinMouse\obj\Release\WinMouse.pdb
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\bin\Release\WinMouse.exe
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\bin\Release\WinMouse.pdb
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Release\WinMouse.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Release\WinMouse.Form1.resources
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Release\WinMouse.Properties.Resources.resources
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Release\WinMouse.csproj.GenerateResource.Cache
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Release\WinMouse.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Release\WinMouse.exe
+D:\Visual Studio 2017\Projects\WinMouse\WinMouse\obj\Release\WinMouse.pdb
